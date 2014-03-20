@@ -8,6 +8,10 @@ import java.net.*;
  * User: Sanq
  * Date: 19.03.14
  * Time: 15:07
+ *
+ *
+ *
+ * test
  */
 public class BroadcastClient {
 
